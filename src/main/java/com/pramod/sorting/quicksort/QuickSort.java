@@ -1,4 +1,4 @@
-package com.pramod.sorting;
+package com.pramod.sorting.quicksort;
 
 import java.util.Arrays;
 
